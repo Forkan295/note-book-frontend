@@ -1,0 +1,53 @@
+
+.inputContainer{
+    position: relative;
+  /* Add some padding and a grey background color */
+  padding: 10px;
+  background-color: #f1f1f1;
+  /* Add some rounded corners */
+  border-radius: 10px;
+}
+
+.inputStyle{
+    /* border: 3px solid rgb(121, 108, 99);
+    padding: 10px 60px;
+    border-radius: 20px;
+    margin-bottom: 20px; */
+
+    width: 100%;
+    /* Add some padding and a grey border */
+    padding: 12px 20px;
+    border: 1px solid #ccc;
+    /* Add some rounded corners */
+    border-radius: 10px;
+    /* Add a grey placeholder text */
+    color: #999;
+    font-size: 16px;
+    /* Use the "Open Sans" font */
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.inputContainer_dark{
+    position: relative;
+    /* Add some padding and a dark grey background color */
+    padding: 10px;
+    background-color: #333;
+    /* Add some rounded corners */
+    border-radius: 10px;
+}
+
+.inputStyle_dark{
+    width: 100%;
+    /* Add some padding and a dark grey border */
+    padding: 12px 20px;
+    border: 1px solid #444;
+    /* Add some rounded corners */
+    border-radius: 10px;
+    /* Add a white placeholder text */
+    color: #fff;
+    font-size: 16px;
+    /* Use the "Open Sans" font */
+    font-family: "Open Sans", sans-serif;
+}
+
